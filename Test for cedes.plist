@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Devices</key>
+	<dict>
+		<key>4thGen</key>
+		<dict>
+			<key>#framebuffer-con0-alldata</key>
+			<data>
+			AgQKAAAIAACHAAAA
+			</data>
+			<key>AAPL,ig-platform-id</key>
+			<data>
+			AwAiDQ==
+			</data>
+			<key>device-id</key>
+			<data>
+			EgQAAA==
+			</data>
+			<key>force-online</key>
+			<data>
+			AQAAAA==
+			</data>
+			<key>framebuffer-con0-alldata</key>
+			<data>
+			AgQKAAAIAAAHAAAA
+			</data>
+			<key>framebuffer-con0-enable</key>
+			<data>
+			AQAAAA==
+			</data>
+			<key>framebuffer-fbmem</key>
+			<data>
+			AACQAA==
+			</data>
+			<key>framebuffer-patch-enable</key>
+			<data>
+			AQAAAA==
+			</data>
+			<key>framebuffer-portcount</key>
+			<data>
+			AQAAAA==
+			</data>
+			<key>framebuffer-stolenmem</key>
+			<data>
+			AAAwAQ==
+			</data>
+			<key>hda-gfx</key>
+			<string>onboard-1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
